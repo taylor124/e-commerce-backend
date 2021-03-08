@@ -1,7 +1,6 @@
 # E-commerce Back End Starter Code
 
 <h1>e-commerce-backend <h1>
-  ![badge](https://img.shields.io/badge/license-The Unlicense-blue)<br />
 
   ## <h2>Description</h2>
   Refactor the code so that you can get, create, update and delete categories, products and tags.
